@@ -44,6 +44,7 @@ public class MySender {
 
 			// Send the message
 			sender.send(message);
+			//coucou
 
 			// Close the session
 			session.close();
